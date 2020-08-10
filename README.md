@@ -14,7 +14,7 @@
 
 ### 全部功能文档列表，持续更新
 
-当前适配版本从2.8.12 ~ **3.0.25**最新版
+当前适配版本从2.8.12 ~ **3.0.26**最新版
 
 **主要功能列表**
 
@@ -82,11 +82,11 @@
 
 如果你在学习过程中遇到问题，你可以直接提交issue，或者直接联系我，在有余力之余我还是乐意结识有共同爱好的朋友，请添加时备注：xposed、xmagichooker+名字（当然你也可以只填姓，方便我备注）
 
-
 可以添加QQ：1096497792，或者微信，微信优先，如果你看不到github上的微信二维码，那请添加qq
 
-![我的联系方式](sources/my_contact_information.jpeg)
-
+<img src="sources/my_contact_01.png" width="160" height="160"/>
+<img src="sources/my_contact_02.png" width="160" height="160"/>
+<img src="sources/my_contact_03.png" width="160" height="160"/>
 
 
 
