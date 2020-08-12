@@ -84,9 +84,7 @@
 
 可以添加QQ：1096497792，或者微信，微信优先，如果你看不到github上的微信二维码，那请添加qq
 
-<img src="sources/my_contact_01.png" width="160" height="160"/>
-<img src="sources/my_contact_02.png" width="160" height="160"/>
-<img src="sources/my_contact_03.png" width="160" height="160"/>
+<img src="sources/my_contact_01.png" width="160" height="160"/><img src="sources/my_contact_02.png" width="160" height="160"/><img src="sources/my_contact_03.png" width="160" height="160"/>
 
 
 
